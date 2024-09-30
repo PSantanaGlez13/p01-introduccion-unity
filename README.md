@@ -18,8 +18,6 @@ public class Location : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //Transform gallina = GameObject.FindWithTag("Gallina").GetComponent<Transform>();
-        //Debug.Log("Gallina: x= " + gallina.localPosition.x + " y= " + gallina.localPosition.y + " z= " gallina.localPosition.z);
         Transform objectTransform = gameObject.GetComponent<Transform>();
         Debug.Log(gameObject.name + " con tag " + gameObject.tag + ": x= " + objectTransform.localPosition.x + " y= " + objectTransform.localPosition.y + " z= " + objectTransform.localPosition.z);
     }
