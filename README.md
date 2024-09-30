@@ -5,7 +5,7 @@
 
 # Descripción del proyecto.
 - Como se puede apreciar en el ejemplo, se han añadido un cubo, una esfera y un terreno al proyecto. También se han añadido un starter asset: la figura humana del paquete Third Person Starter Assets.
-- También se ha añadido una gallina de (otro asset de la asset store)[https://assetstore.unity.com/packages/3d/characters/animals/animals-free-low-poly-asset-pack-by-ithappy-260727]
+- También se ha añadido una gallina de [otro asset de la asset store](https://assetstore.unity.com/packages/3d/characters/animals/animals-free-low-poly-asset-pack-by-ithappy-260727)
 - Se han modificado los colores de los elementos.
 - En el GIF se muestra el script que muestra la posición de los objetos, con su correspondiente nombre y tag.
 - El siguiente código corresponde al script:
